@@ -1,0 +1,40 @@
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.exe.config
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.exe
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.pdb
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.xml
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\MySql.Data.dll
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\sn2016gr9.vbprojResolveAssemblyReference.cache
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Endreinfo.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.BestRes.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Innsjekk.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Opphold.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Valgmuligheter.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Avbestill.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Utsjekk.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Økonomi.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\sn2016gr9.vbproj.GenerateResource.Cache
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.exe
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.xml
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.pdb
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.exe.config
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.exe
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.xml
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\Prosjekt inf165 design.pdb
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.exe
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.pdb
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\Prosjekt inf165 design.xml
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\bin\Debug\MySql.Data.dll
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\sn2016gr9.vbprojResolveAssemblyReference.cache
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Endreinfo.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.BestRes.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Innsjekk.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Opphold.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Valgmuligheter.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Avbestill.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Utsjekk.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\WindowsApplication1.Økonomi.resources
+C:\Users\sweet\SkyDrive\Skole\2-Semester-Vår 2016\INF-165  Praktisk systemutvikling\sn2016gr9\Prosjekt inf165 design\Prosjekt inf165 design\obj\Debug\sn2016gr9.vbproj.GenerateResource.Cache
