@@ -8,7 +8,7 @@ Storenuten Høgfjellshotel is a Høgfjellshotel located in the Norwegian mountai
 * Has opportunities for retrieving information of an economic nature.
 
 
-#### Functions for Learner
+#### System Functions
 * Booking/ Reservation 
 * Check-in 
 * Stays
